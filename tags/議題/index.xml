@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>議題 on TING&#39;s Portfolio</title>
+    <link>https://demo.gethugothemes.com/liva/tags/%E8%AD%B0%E9%A1%8C/</link>
+    <description>Recent content in 議題 on TING&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 12 Nov 2021 13:42:00 +0800</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/tags/%E8%AD%B0%E9%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>測試</title>
+      <link>https://demo.gethugothemes.com/liva/blog/post-14/</link>
+      <pubDate>Fri, 12 Nov 2021 13:42:00 +0800</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/blog/post-14/</guid>
+      <description>Hello World
+一級標題 二級標題 六級標題 哈囉你好嗎？真心感謝～
+ 珍重再見 期待再相逢   哈摟你好嗎 真心感謝  找不到一句     會讓你心動的話語</description>
+    </item>
+    
+  </channel>
+</rss>
